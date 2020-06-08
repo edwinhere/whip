@@ -216,8 +216,8 @@ UninstallHelloFace            # InstallHelloFace
 UninstallMathRecognizer       # InstallMathRecognizer
 UninstallPowerShellV2         # InstallPowerShellV2
 UninstallPowerShellISE        # InstallPowerShellISE
-InstallLinuxSubsystem         # UninstallLinuxSubsystem
-InstallHyperV                 # UninstallHyperV
+# InstallLinuxSubsystem         # UninstallLinuxSubsystem
+# InstallHyperV                 # UninstallHyperV
 UninstallSSHClient            # InstallSSHClient
 InstallSSHServer              # UninstallSSHServer
 InstallTelnetClient           # UninstallTelnetClient
