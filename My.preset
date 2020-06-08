@@ -219,7 +219,8 @@ UninstallPowerShellISE        # InstallPowerShellISE
 # InstallLinuxSubsystem         # UninstallLinuxSubsystem
 # InstallHyperV                 # UninstallHyperV
 UninstallSSHClient            # InstallSSHClient
-InstallSSHServer              # UninstallSSHServer
+# InstallSSHServer              
+UninstallSSHServer
 InstallTelnetClient           # UninstallTelnetClient
 # InstallNET23                  # UninstallNET23
 SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
