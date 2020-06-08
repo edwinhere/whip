@@ -4,7 +4,7 @@ scoop bucket add extras
 scoop bucket add nerd-fonts
 scoop bucket add java
 scoop install aria2
-scoop install 7zip curl sudo git openssh coreutils grep sed less python ruby wget fzf pwsh extras/vcredist2019 windows-terminal ctags ag make vim mc concfg pshazz docker
+scoop install 7zip curl sudo git openssh coreutils grep sed less python ruby wget fzf pwsh extras/vcredist2019 windows-terminal ctags ag make vim mc concfg pshazz docker googlechrome-dev
 sudo scoop install JetBrains-Mono
 
 git config --global user.email "edwinhere@gmail.com"
