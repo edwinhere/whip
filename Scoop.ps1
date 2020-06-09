@@ -47,7 +47,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 cp vimrc ~/vimfiles
 cp gvimrc ~/vimfiles
-touch ~\vimfiles\_vimrc.local
-touch ~\vimfiles\_vimrc.local.bundles
+cp _vimrc.local ~/vimfiles
+cp _vimrc.local.bundle ~/vimfiles
 
 vi +PlugInstall
